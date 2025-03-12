@@ -4,7 +4,10 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
 
-    public static
+    public static void aaa(){
+        System.out.printf("aa");
+        wuyyyyyyyyyyyyy
+    }
 
 
     public static void main(String[] args) {
