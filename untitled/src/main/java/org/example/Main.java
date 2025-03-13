@@ -24,7 +24,10 @@ public class Main {
         aaa.push
     }
 
-
+    public static void advxxvvv(){
+        Lis  aaa = new ArrayList<>();
+        aaa.push
+    }
 
 
 
