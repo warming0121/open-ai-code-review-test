@@ -1,5 +1,8 @@
 package org.example;
 
+import java.util.ArrayList;
+import java.util.List;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
@@ -10,18 +13,18 @@ public class Main {
     }
 
 
-    public static void aaa(){
-        System.out.printf("aa");
-        wuyyyyyyyyyyyyy
+
+    public int aaaaaaaadas（）Package{
+        乱写捣乱的
     }
 
 
-
-
-    public static void aaabbb(){
-        System.out.printf("aa");
-        wuyyyyyyyyyyyyy
+    public static void advvvv(){
+        Lis  aaa = new ArrayList<>();
+        aaa.push
     }
+
+
 
 
 
